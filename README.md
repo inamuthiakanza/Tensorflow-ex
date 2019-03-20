@@ -1,4 +1,4 @@
-# Quick setup
+# Setup
 Run in google colab https://colab.research.google.com/notebook
 
 Welcome to this Colab where you will get a quick introduction to the Python programming language and the environment used for the course's excersises: Colab.
